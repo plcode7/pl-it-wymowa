@@ -1,0 +1,30 @@
+{"id":"genetyka-term-1","type":"term","sector":"genetyka","en":"genetics","pl_pronunciation":"dżenetiks","pl_equivalent":"genetyka","text":"genetics (wymowa: dżenetiks) - po polsku: genetyka"}
+{"id":"genetyka-term-2","type":"term","sector":"genetyka","en":"gene","pl_pronunciation":"dżin","pl_equivalent":"gen","text":"gene (wymowa: dżin) - po polsku: gen"}
+{"id":"genetyka-term-3","type":"term","sector":"genetyka","en":"genome","pl_pronunciation":"dżinom","pl_equivalent":"genom","text":"genome (wymowa: dżinom) - po polsku: genom"}
+{"id":"genetyka-term-4","type":"term","sector":"genetyka","en":"chromosome","pl_pronunciation":"kromosom","pl_equivalent":"chromosom","text":"chromosome (wymowa: kromosom) - po polsku: chromosom"}
+{"id":"genetyka-term-5","type":"term","sector":"genetyka","en":"DNA","pl_pronunciation":"di en ej","pl_equivalent":"DNA","text":"DNA (wymowa: di en ej) - po polsku: DNA"}
+{"id":"genetyka-term-6","type":"term","sector":"genetyka","en":"RNA","pl_pronunciation":"ar en ej","pl_equivalent":"RNA","text":"RNA (wymowa: ar en ej) - po polsku: RNA"}
+{"id":"genetyka-term-7","type":"term","sector":"genetyka","en":"mutation","pl_pronunciation":"mjutejszn","pl_equivalent":"mutacja","text":"mutation (wymowa: mjutejszn) - po polsku: mutacja"}
+{"id":"genetyka-term-8","type":"term","sector":"genetyka","en":"allele","pl_pronunciation":"alil","pl_equivalent":"allel","text":"allele (wymowa: alil) - po polsku: allel"}
+{"id":"genetyka-term-9","type":"term","sector":"genetyka","en":"genotype","pl_pronunciation":"dżenotajp","pl_equivalent":"genotyp","text":"genotype (wymowa: dżenotajp) - po polsku: genotyp"}
+{"id":"genetyka-term-10","type":"term","sector":"genetyka","en":"phenotype","pl_pronunciation":"fenotajp","pl_equivalent":"fenotyp","text":"phenotype (wymowa: fenotajp) - po polsku: fenotyp"}
+{"id":"genetyka-term-11","type":"term","sector":"genetyka","en":"heredity","pl_pronunciation":"heredyti","pl_equivalent":"dziedziczność","text":"heredity (wymowa: heredyti) - po polsku: dziedziczność"}
+{"id":"genetyka-term-12","type":"term","sector":"genetyka","en":"inheritance","pl_pronunciation":"inheritans","pl_equivalent":"dziedziczenie","text":"inheritance (wymowa: inheritans) - po polsku: dziedziczenie"}
+{"id":"genetyka-term-13","type":"term","sector":"genetyka","en":"sequencing","pl_pronunciation":"sikłensing","pl_equivalent":"sekwencjonowanie","text":"sequencing (wymowa: sikłensing) - po polsku: sekwencjonowanie"}
+{"id":"genetyka-term-14","type":"term","sector":"genetyka","en":"PCR","pl_pronunciation":"pi si ar","pl_equivalent":"PCR","text":"PCR (wymowa: pi si ar) - po polsku: PCR"}
+{"id":"genetyka-term-15","type":"term","sector":"genetyka","en":"CRISPR","pl_pronunciation":"krispr","pl_equivalent":"CRISPR","text":"CRISPR (wymowa: krispr) - po polsku: CRISPR"}
+{"id":"genetyka-term-16","type":"term","sector":"genetyka","en":"polymorphism","pl_pronunciation":"polimorfizm","pl_equivalent":"polimorfizm","text":"polymorphism (wymowa: polimorfizm) - po polsku: polimorfizm"}
+{"id":"genetyka-term-17","type":"term","sector":"genetyka","en":"transcription","pl_pronunciation":"transkrypszn","pl_equivalent":"transkrypcja","text":"transcription (wymowa: transkrypszn) - po polsku: transkrypcja"}
+{"id":"genetyka-term-18","type":"term","sector":"genetyka","en":"translation","pl_pronunciation":"translejszn","pl_equivalent":"translacja","text":"translation (wymowa: translejszn) - po polsku: translacja"}
+{"id":"genetyka-term-19","type":"term","sector":"genetyka","en":"enzyme","pl_pronunciation":"enzajm","pl_equivalent":"enzym","text":"enzyme (wymowa: enzajm) - po polsku: enzym"}
+{"id":"genetyka-term-20","type":"term","sector":"genetyka","en":"protein","pl_pronunciation":"proutin","pl_equivalent":"białko","text":"protein (wymowa: proutin) - po polsku: białko"}
+{"id":"genetyka-term-21","type":"term","sector":"genetyka","en":"epigenetics","pl_pronunciation":"epidżenetiks","pl_equivalent":"epigenetyka","text":"epigenetics (wymowa: epidżenetiks) - po polsku: epigenetyka"}
+{"id":"genetyka-term-22","type":"term","sector":"genetyka","en":"clone","pl_pronunciation":"klon","pl_equivalent":"klon","text":"clone (wymowa: klon) - po polsku: klon"}
+{"id":"genetyka-term-23","type":"term","sector":"genetyka","en":"vector","pl_pronunciation":"wektor","pl_equivalent":"wektor","text":"vector (wymowa: wektor) - po polsku: wektor"}
+{"id":"genetyka-term-24","type":"term","sector":"genetyka","en":"plasmid","pl_pronunciation":"plazmid","pl_equivalent":"plazmid","text":"plasmid (wymowa: plazmid) - po polsku: plazmid"}
+{"id":"genetyka-term-25","type":"term","sector":"genetyka","en":"bioinformatics","pl_pronunciation":"bajoinformatiks","pl_equivalent":"bioinformatyka","text":"bioinformatics (wymowa: bajoinformatiks) - po polsku: bioinformatyka"}
+{"id":"genetyka-term-26","type":"term","sector":"genetyka","en":"variant","pl_pronunciation":"werjant","pl_equivalent":"wariant","text":"variant (wymowa: werjant) - po polsku: wariant"}
+{"id":"genetyka-term-27","type":"term","sector":"genetyka","en":"biomarker","pl_pronunciation":"bajomarker","pl_equivalent":"biomarker","text":"biomarker (wymowa: bajomarker) - po polsku: biomarker"}
+{"id":"genetyka-term-28","type":"term","sector":"genetyka","en":"cell","pl_pronunciation":"sel","pl_equivalent":"komórka","text":"cell (wymowa: sel) - po polsku: komórka"}
+{"id":"genetyka-term-29","type":"term","sector":"genetyka","en":"mitochondria","pl_pronunciation":"majtokondria","pl_equivalent":"mitochondria","text":"mitochondria (wymowa: majtokondria) - po polsku: mitochondria"}
+{"id":"genetyka-term-30","type":"term","sector":"genetyka","en":"ribosome","pl_pronunciation":"rajbosom","pl_equivalent":"rybosom","text":"ribosome (wymowa: rajbosom) - po polsku: rybosom"}

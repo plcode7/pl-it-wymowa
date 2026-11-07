@@ -1,0 +1,48 @@
+{"id":"biznes-term-1","type":"term","sector":"biznes","en":"business","pl_pronunciation":"biznes","pl_equivalent":"biznes","text":"business (wymowa: biznes) - po polsku: biznes"}
+{"id":"biznes-term-2","type":"term","sector":"biznes","en":"startup","pl_pronunciation":"startap","pl_equivalent":"start-up","text":"startup (wymowa: startap) - po polsku: start-up"}
+{"id":"biznes-term-3","type":"term","sector":"biznes","en":"stakeholder","pl_pronunciation":"stejkholder","pl_equivalent":"interesariusz","text":"stakeholder (wymowa: stejkholder) - po polsku: interesariusz"}
+{"id":"biznes-term-4","type":"term","sector":"biznes","en":"revenue","pl_pronunciation":"rewenju","pl_equivalent":"przychody","text":"revenue (wymowa: rewenju) - po polsku: przychody"}
+{"id":"biznes-term-5","type":"term","sector":"biznes","en":"profit","pl_pronunciation":"profit","pl_equivalent":"zysk","text":"profit (wymowa: profit) - po polsku: zysk"}
+{"id":"biznes-term-6","type":"term","sector":"biznes","en":"margin","pl_pronunciation":"mardżin","pl_equivalent":"marża","text":"margin (wymowa: mardżin) - po polsku: marża"}
+{"id":"biznes-term-7","type":"term","sector":"biznes","en":"invoice","pl_pronunciation":"inwojs","pl_equivalent":"faktura","text":"invoice (wymowa: inwojs) - po polsku: faktura"}
+{"id":"biznes-term-8","type":"term","sector":"biznes","en":"budget","pl_pronunciation":"badżet","pl_equivalent":"budżet","text":"budget (wymowa: badżet) - po polsku: budżet"}
+{"id":"biznes-term-9","type":"term","sector":"biznes","en":"forecast","pl_pronunciation":"forkast","pl_equivalent":"prognoza","text":"forecast (wymowa: forkast) - po polsku: prognoza"}
+{"id":"biznes-term-10","type":"term","sector":"biznes","en":"deadline","pl_pronunciation":"dedlajn","pl_equivalent":"termin","text":"deadline (wymowa: dedlajn) - po polsku: termin"}
+{"id":"biznes-term-11","type":"term","sector":"biznes","en":"client","pl_pronunciation":"klajent","pl_equivalent":"klient","text":"client (wymowa: klajent) - po polsku: klient"}
+{"id":"biznes-term-12","type":"term","sector":"biznes","en":"customer","pl_pronunciation":"kastomer","pl_equivalent":"klient","text":"customer (wymowa: kastomer) - po polsku: klient"}
+{"id":"biznes-term-13","type":"term","sector":"biznes","en":"sales","pl_pronunciation":"sejlz","pl_equivalent":"sprzedaż","text":"sales (wymowa: sejlz) - po polsku: sprzedaż"}
+{"id":"biznes-term-14","type":"term","sector":"biznes","en":"marketing","pl_pronunciation":"marketing","pl_equivalent":"marketing","text":"marketing (wymowa: marketing) - po polsku: marketing"}
+{"id":"biznes-term-15","type":"term","sector":"biznes","en":"brand","pl_pronunciation":"brend","pl_equivalent":"marka","text":"brand (wymowa: brend) - po polsku: marka"}
+{"id":"biznes-term-16","type":"term","sector":"biznes","en":"pitch","pl_pronunciation":"pitch","pl_equivalent":"prezentacja dla inwestora","text":"pitch (wymowa: pitch) - po polsku: prezentacja dla inwestora"}
+{"id":"biznes-term-17","type":"term","sector":"biznes","en":"investor","pl_pronunciation":"inwestor","pl_equivalent":"inwestor","text":"investor (wymowa: inwestor) - po polsku: inwestor"}
+{"id":"biznes-term-18","type":"term","sector":"biznes","en":"venture capital","pl_pronunciation":"wencz kapitał","pl_equivalent":"kapitał wysokiego ryzyka","text":"venture capital (wymowa: wencz kapitał) - po polsku: kapitał wysokiego ryzyka"}
+{"id":"biznes-term-19","type":"term","sector":"biznes","en":"due diligence","pl_pronunciation":"dju dilidżens","pl_equivalent":"badanie due diligence","text":"due diligence (wymowa: dju dilidżens) - po polsku: badanie due diligence"}
+{"id":"biznes-term-20","type":"term","sector":"biznes","en":"benchmark","pl_pronunciation":"benczmark","pl_equivalent":"punkt odniesienia","text":"benchmark (wymowa: benczmark) - po polsku: punkt odniesienia"}
+{"id":"biznes-term-21","type":"term","sector":"biznes","en":"outsourcing","pl_pronunciation":"autsorsing","pl_equivalent":"outsourcing","text":"outsourcing (wymowa: autsorsing) - po polsku: outsourcing"}
+{"id":"biznes-term-22","type":"term","sector":"biznes","en":"onboarding","pl_pronunciation":"onbording","pl_equivalent":"wdrażanie pracownika","text":"onboarding (wymowa: onbording) - po polsku: wdrażanie pracownika"}
+{"id":"biznes-term-23","type":"term","sector":"biznes","en":"feedback","pl_pronunciation":"fidbek","pl_equivalent":"informacja zwrotna","text":"feedback (wymowa: fidbek) - po polsku: informacja zwrotna"}
+{"id":"biznes-term-24","type":"term","sector":"biznes","en":"retention","pl_pronunciation":"rytenszn","pl_equivalent":"utrzymanie klientów","text":"retention (wymowa: rytenszn) - po polsku: utrzymanie klientów"}
+{"id":"biznes-term-25","type":"term","sector":"biznes","en":"churn","pl_pronunciation":"czurn","pl_equivalent":"odpływ klientów","text":"churn (wymowa: czurn) - po polsku: odpływ klientów"}
+{"id":"biznes-term-26","type":"term","sector":"biznes","en":"cash flow","pl_pronunciation":"kesz flołu","pl_equivalent":"przepływy pieniężne","text":"cash flow (wymowa: kesz flołu) - po polsku: przepływy pieniężne"}
+{"id":"biznes-term-27","type":"term","sector":"biznes","en":"balance sheet","pl_pronunciation":"balans szit","pl_equivalent":"bilans","text":"balance sheet (wymowa: balans szit) - po polsku: bilans"}
+{"id":"biznes-term-28","type":"term","sector":"biznes","en":"shareholder","pl_pronunciation":"szerholder","pl_equivalent":"akcjonariusz","text":"shareholder (wymowa: szerholder) - po polsku: akcjonariusz"}
+{"id":"biznes-term-29","type":"term","sector":"biznes","en":"board of directors","pl_pronunciation":"bord of dajrektors","pl_equivalent":"zarząd","text":"board of directors (wymowa: bord of dajrektors) - po polsku: zarząd"}
+{"id":"biznes-term-30","type":"term","sector":"biznes","en":"CEO","pl_pronunciation":"si i o","pl_equivalent":"prezes zarządu","text":"CEO (wymowa: si i o) - po polsku: prezes zarządu"}
+{"id":"biznes-term-31","type":"term","sector":"biznes","en":"CFO","pl_pronunciation":"si ef o","pl_equivalent":"dyrektor finansowy","text":"CFO (wymowa: si ef o) - po polsku: dyrektor finansowy"}
+{"id":"biznes-term-32","type":"term","sector":"biznes","en":"COO","pl_pronunciation":"si o o","pl_equivalent":"dyrektor operacyjny","text":"COO (wymowa: si o o) - po polsku: dyrektor operacyjny"}
+{"id":"biznes-term-33","type":"term","sector":"biznes","en":"CTO","pl_pronunciation":"si ti o","pl_equivalent":"dyrektor technologiczny","text":"CTO (wymowa: si ti o) - po polsku: dyrektor technologiczny"}
+{"id":"biznes-term-34","type":"term","sector":"biznes","en":"HR","pl_pronunciation":"ejczar","pl_equivalent":"dział kadr","text":"HR (wymowa: ejczar) - po polsku: dział kadr"}
+{"id":"biznes-term-35","type":"term","sector":"biznes","en":"recruitment","pl_pronunciation":"rekrutment","pl_equivalent":"rekrutacja","text":"recruitment (wymowa: rekrutment) - po polsku: rekrutacja"}
+{"id":"biznes-term-36","type":"term","sector":"biznes","en":"B2B","pl_pronunciation":"bi tu bi","pl_equivalent":"biznes do biznesu","text":"B2B (wymowa: bi tu bi) - po polsku: biznes do biznesu"}
+{"id":"biznes-term-37","type":"term","sector":"biznes","en":"B2C","pl_pronunciation":"bi tu si","pl_equivalent":"biznes do klienta","text":"B2C (wymowa: bi tu si) - po polsku: biznes do klienta"}
+{"id":"biznes-term-38","type":"term","sector":"biznes","en":"subscription","pl_pronunciation":"subskrypszn","pl_equivalent":"subskrypcja","text":"subscription (wymowa: subskrypszn) - po polsku: subskrypcja"}
+{"id":"biznes-term-39","type":"term","sector":"biznes","en":"pricing","pl_pronunciation":"prajsing","pl_equivalent":"wycena cen","text":"pricing (wymowa: prajsing) - po polsku: wycena cen"}
+{"id":"biznes-term-40","type":"term","sector":"biznes","en":"contract","pl_pronunciation":"kontrakt","pl_equivalent":"umowa","text":"contract (wymowa: kontrakt) - po polsku: umowa"}
+{"id":"biznes-term-41","type":"term","sector":"biznes","en":"NDA","pl_pronunciation":"en di ej","pl_equivalent":"umowa o poufności","text":"NDA (wymowa: en di ej) - po polsku: umowa o poufności"}
+{"id":"biznes-term-42","type":"term","sector":"biznes","en":"supplier","pl_pronunciation":"saplaier","pl_equivalent":"dostawca","text":"supplier (wymowa: saplaier) - po polsku: dostawca"}
+{"id":"biznes-term-43","type":"term","sector":"biznes","en":"procurement","pl_pronunciation":"prokurement","pl_equivalent":"zaopatrzenie","text":"procurement (wymowa: prokurement) - po polsku: zaopatrzenie"}
+{"id":"biznes-term-44","type":"term","sector":"biznes","en":"logistics","pl_pronunciation":"lodżistyks","pl_equivalent":"logistyka","text":"logistics (wymowa: lodżistyks) - po polsku: logistyka"}
+{"id":"biznes-term-45","type":"term","sector":"biznes","en":"supply chain","pl_pronunciation":"saplaj czejn","pl_equivalent":"łańcuch dostaw","text":"supply chain (wymowa: saplaj czejn) - po polsku: łańcuch dostaw"}
+{"id":"biznes-term-46","type":"term","sector":"biznes","en":"warehouse","pl_pronunciation":"łerhaus","pl_equivalent":"magazyn","text":"warehouse (wymowa: łerhaus) - po polsku: magazyn"}
+{"id":"biznes-term-47","type":"term","sector":"biznes","en":"compliance","pl_pronunciation":"komplajens","pl_equivalent":"zgodność z przepisami","text":"compliance (wymowa: komplajens) - po polsku: zgodność z przepisami"}
+{"id":"biznes-term-48","type":"term","sector":"biznes","en":"audit","pl_pronunciation":"audyt","pl_equivalent":"audyt","text":"audit (wymowa: audyt) - po polsku: audyt"}

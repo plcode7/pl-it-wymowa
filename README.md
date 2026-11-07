@@ -22,8 +22,8 @@ Zasada: dane na licencji GPL (i inne nie-MIT) dołączamy tylko po zgodzie użyt
 
 ## Licencja zawartości
 
-Zapisy w `wymowa-it-pl.tsv` napisałem na potrzeby tego projektu. Licencja do
-ustalenia przed publikacją (propozycja: MIT, jak w Handy).
+Zapisy w `wymowa-it-pl.tsv` napisałem na potrzeby tego projektu. Licencja: MIT
+(plik `LICENSE`), tak samo jak w Handy. Dane z innych źródeł nie są tu kopiowane.
 
 ## Mechanizmy poprawy wymowy w Handy
 
