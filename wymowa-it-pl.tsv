@@ -1,0 +1,157 @@
+termin_en	zapis_pl	kategoria
+Kubernetes	kubernetis	devops
+Docker	dokker	devops
+Terraform	terafarm	devops
+Ansible	ansibl	devops
+Grafana	grafana	devops
+Prometheus	prometeus	devops
+Elasticsearch	elastiksercz	devops
+Nginx	endżinkiks	devops
+Kafka	kafka	devops
+Redis	redis	devops
+pipeline	pajplajn	devops
+deploy	dipłoj	devops
+build	bild	devops
+release	riliz	devops
+container	kontejner	devops
+cloud	klaud	devops
+server	serwer	devops
+cache	kesz	devops
+endpoint	endpojnt	devops
+Git	gitt	git
+GitHub	gitchab	git
+GitLab	gitlab	git
+Bitbucket	bitbakiet	git
+commit	komit	git
+branch	bramcz	git
+merge	merdż	git
+push	pusz	git
+pull	pul	git
+rebase	ribejs	git
+stash	stasz	git
+repository	rypozitori	git
+tag	tag	git
+Linux	linuks	system
+Ubuntu	ubuntu	system
+Windows	łindołs	system
+macOS	mak ołs	system
+Android	endroid	system
+iOS	aj os	system
+TypeScript	tajpskrypt	język
+JavaScript	dżawaskrypt	język
+Python	pajton	język
+Rust	rast	język
+Kotlin	kotlin	język
+Swift	świft	język
+Java	dżawa	język
+Go	go	język
+C#	si szarp	język
+React	riakt	framework
+Angular	endżular	framework
+Vue	wju	framework
+Svelte	swelt	framework
+Next.js	next dżi es	framework
+Node.js	nod dżi es	framework
+Django	dżango	framework
+FastAPI	fast ej pi aj	framework
+Laravel	larawel	framework
+Vite	wajt	narzędzie
+Tauri	tauri	framework
+Electron	elektron	framework
+npm	en pe em	narzędzie
+bun	bun	narzędzie
+PostgreSQL	postgres kju el	baza
+MongoDB	mongo di bi	baza
+MySQL	maj es kju el	baza
+SQLite	es kju el lajt	baza
+database	dejtabejs	baza
+query	kłeri	baza
+SQL	es kju el	formaty
+REST	rest	formaty
+JSON	dżejson	formaty
+YAML	jamel	formaty
+API	ej pi aj	formaty
+endpoint API	endpojnt ej pi aj	formaty
+CLI	si el aj	formaty
+SDK	es di kej	formaty
+IDE	aj di i	formaty
+UI	ju aj	formaty
+UX	ju iks	formaty
+HTTP	ejczttipi	sieć
+DNS	di en es	sieć
+SSH	es es ejcz	sieć
+VPN	wi pi en	sieć
+CI/CD	si aj si di	devops
+LLM	el el em	AI
+GPU	dżi pi ju	sprzęt
+CPU	si pi ju	sprzęt
+RAM	ram	sprzęt
+SSD	es es di	sprzęt
+PR	pi ar	git
+MR	em ar	git
+MVP	em wi pi	biznes
+SaaS	sas	biznes
+OOP	o o pi	kod
+feature	ficzer	kod
+bug	bag	kod
+debug	dibag	kod
+framework	frejmłork	kod
+library	lajbrari	kod
+terminal	terminal	narzędzie
+console	konsol	narzędzie
+README	ridmi	dokumentacja
+OpenAI	ołpen ej aj	AI
+Anthropic	anthropik	AI
+Claude	klod	AI
+Gemini	dżemini	AI
+Copilot	kopajlot	AI
+Llama	lama	AI
+Mistral	mistral	AI
+Hugging Face	hagingfejs	AI
+Azure	ezjur	chmura
+AWS	ej dablju es	chmura
+Google Cloud	gugl klaud	chmura
+Cloudflare	klaudflar	chmura
+Vercel	wercel	chmura
+Netlify	netlaj	chmura
+Supabase	supabejs	chmura
+Firebase	fajrbejs	chmura
+Microsoft	majkrosoft	korporacja
+Google	gugl	korporacja
+Amazon	amazon	korporacja
+Apple	apel	korporacja
+Meta	meta	korporacja
+Nvidia	enwidia	korporacja
+Intel	intel	korporacja
+AMD	ej em di	korporacja
+IBM	aj bi em	korporacja
+Oracle	orakl	korporacja
+SAP	es ej pi	korporacja
+Salesforce	salesfors	korporacja
+Atlassian	atlasian	korporacja
+Adobe	adobi	korporacja
+Netflix	netfliks	korporacja
+Spotify	spotifaj	korporacja
+Shopify	szopifaj	korporacja
+Stripe	strajp	korporacja
+Cisco	sisko	korporacja
+Figma	figma	narzędzie
+Notion	nołszn	narzędzie
+Slack	slak	narzędzie
+Jira	dżira	narzędzie
+Confluence	konfluens	narzędzie
+Allegro	alegro	firma PL
+Comarch	komarch	firma PL
+Asseco	asseko	firma PL
+Sygnity	sygnity	firma PL
+Netguru	netguru	firma PL
+STX Next	es ti iks next	firma PL
+Future Processing	fjuczer processing	firma PL
+SoftwareMill	softłer mil	firma PL
+Ailleron	ajlaron	firma PL
+DataWalk	dejtałok	firma PL
+Synerise	synerajz	firma PL
+InPost	inpost	firma PL
+CD Projekt	si di projekt	firma PL
+Brainly	brejnli	firma PL
+Booksy	buksi	firma PL
